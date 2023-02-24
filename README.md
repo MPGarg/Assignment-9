@@ -24,8 +24,3 @@ Last Few Epochs:
 
 ![image](https://user-images.githubusercontent.com/120099863/221090835-d4b56063-390c-45e5-841d-f9b2ad14ce05.png)
 
-## Conclusion
-
-* Simple transformer
-* Model was able to run quickly and achieve 93.02% testing accuracy in 24 epoch
-* Model was overfitting and regularizations (Dropout & L2) are used to limit overfitting
